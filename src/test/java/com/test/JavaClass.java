@@ -28,4 +28,12 @@ System.out.println("NATIVE");
 
 }
 
+private void salem() {
+	System.out.println("SALEM");
+
+}
+private void chennai() {
+	System.out.println("CHENNAI");
+}
+
 }
