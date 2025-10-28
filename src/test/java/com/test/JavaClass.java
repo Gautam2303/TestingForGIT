@@ -13,5 +13,19 @@ public class JavaClass {
 	private void testJUnit() {
 		System.out.println("JUnit");
 	}
+	
+private void appiumTesting() {
+	System.out.println("APPIUM");
+
+}
+private void webAppTest() {
+	System.out.println("WEB APP TEST");
+
+}
+
+private void nativeAPPTest() {
+System.out.println("NATIVE");
+
+}
 
 }
