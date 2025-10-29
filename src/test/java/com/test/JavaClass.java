@@ -28,6 +28,14 @@ System.out.println("NATIVE");
 
 }
 
+private void salem() {
+	System.out.println("SALEM");
+
+}
+private void chennai() {
+	System.out.println("CHENNAI");
+}
+
 private void quitbrowser() {
 	System.out.println("quit");
 }
@@ -45,6 +53,5 @@ private void windowsHandle() {
 }
 private void checkBoxText() {
 	System.out.println("CheckBox");
-}
 
 }
