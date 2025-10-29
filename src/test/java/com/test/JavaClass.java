@@ -28,4 +28,23 @@ System.out.println("NATIVE");
 
 }
 
+private void quitbrowser() {
+	System.out.println("quit");
+}
+
+private void waitAndClick() {
+	System.out.println("Click");
+
+}
+private void selectDropdownValue() {
+	System.out.println("DROPDOWN VALUE");
+
+}
+private void windowsHandle() {
+	System.out.println("WINDOW");
+}
+private void checkBoxText() {
+	System.out.println("CheckBox");
+}
+
 }
